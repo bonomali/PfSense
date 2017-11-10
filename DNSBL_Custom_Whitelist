@@ -1,0 +1,115 @@
+#
+# DNSBL Custom Whitelist
+# This is the Whitelist for DNSBL, this will allow site that get blocked by 
+# DNSBL that causes issues for normal website viewing.
+#
+# Maintainer      : clintonph2121
+# This File Date  : Fri Oct 27 13:50 EST 2017
+#
+goo.gl # Google
+google.com # Google
+www.google.com # Google
+mail.google.com # Google
+docs.google.com # Google
+sites.google.com # Google
+fonts.googleapis.com # Google
+cache.google.com # Google
+clients.google.com # Google
+clients0.google.com # Google
+clients1.google.com # Google
+clients2.google.com # Google
+clients3.google.com # Google
+clients4.google.com # Google
+clients5.google.com # Google
+clients6.google.com # Google
+clients7.google.com # Google
+clients8.google.com # Google
+clients9.google.com # Google
+login.live.com # Email
+redis.io # BSD Site
+www.maxmind.com # Black List
+s3.amazonaws.com # Black List
+fls-na.amazon.com # Black List
+pgl.yoyo.org # Black List
+someonewhocares.org # Black List
+hosts-file.net # Black List
+ransomwaretracker.abuse.ch # Black List
+malware-domains.com # Black List
+www.malware-domains.com # Black List
+isc.sans.edu # Black List
+www.hosts-file.net # Black List
+adaway.org # Black List
+openphish.com # Black List
+osint.bambenekconsulting.com # Black List
+sysctl.org # Black List
+adblock.gjtech.net # Black List
+www.dshield.org # Black List
+malwaredomainlist.com # Black List
+malwaredomains.com # Black List
+bambenekconsulting.com # Black List
+malwarepatrol.net # Black List
+zeustracker.abuse.ch # Black List
+malc0de.com # Black List
+mirror1.malwaredomains.com # Black List
+www.malwaredomainlist.com # Black List
+googleleads.g.doubleclick.net # BBcan177_adblockplus
+dl.dropboxusercontent.com # DropBox
+whois.cymru.com # Whois
+github.com # Get Hub
+collector-cdn.github.com # Get Hub
+pivotal.github.com # Get Hub
+cloud.github.com # Get Hub
+raw.githubusercontent.com # Get Hub
+raw.github.com # Get Hub
+stopforumspam.com # Black List
+www.stopforumspam.com # Black List
+sourceforge.net # Source Forge
+www.sourceforge.net # Source Forge
+iweb.dl.sourceforge.net # Source Forge
+chase.com # Chase
+www.chase.com # Chase
+americanexpress.com # American Express
+www.americanexpress.com # American Express
+online.americanexpress.com # American Express
+ebay.com # Ebay
+www.ebay.com # Ebay
+rover.ebay.com # Ebay
+srx.main.ebayrtm.com # Ebay
+openbl.org # Blacklist (not used)
+www.openbl.org # Blacklist (not used)
+www.us.openbl.org # Blacklist (not used)
+delta.com # Delta (Airline)
+www.delta.com # Delta (Airline)
+aa.com # American (Airline)
+www.aa.com # American (Airline)
+cruisesonly.com # Cruises Only (Travel Agent)
+www.cruisesonly.com # Cruises Only (Travel Agent)
+ripe.net # Ripe Network (ASN)
+www.ripe.net # Ripe Network (ASN)
+weather.com # Weather
+www.weather.com # Weather
+lacnic.net # (ASN)
+www.lacnic.net # (ASN)
+device.maxmind.com # GeoIP
+ads.mp.mydas.mobi # Andrews Phone
+.www.tkqlhce.com # SlickDeals
+.www.emjcd.com # SlickDeals
+.www.kqzyfj.com # SlickDeals
+.www.jdoqocy.com # SlickDeals
+.www.ojrq.net # SlickDeals
+.www.anrdoezrs.net # SlickDeals
+.cj.dotomi.com # SlickDeals
+.go.redirectingat.com # SlickDeals
+.track.webgains.com # SlickDeals
+.www.shareasale.com # SlickDeals
+.click.linksynergy.com # SlickDeals
+.clk.tradedoubler.com # SlickDeals
+0.us.pool.ntp.org # NTP
+1.us.pool.ntp.org # NTP
+2.us.pool.ntp.org # NTP
+www.dpbolvw.net # SlickDeals
+google-analytics.com # Blizard
+gleam.io # gleam.io
+cl.exct.net # express-scripts
+.tags.tiqcdn.com # History Channel
+.bit.ly # URL Shortener

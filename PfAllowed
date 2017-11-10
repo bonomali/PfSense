@@ -1,0 +1,18 @@
+#
+# PfBlocker Custom IP Whitelist
+# This is the Whitelist for PfBlocker, this will allow site that get blocked by 
+# PfBlocker that causes issues for normal website viewing.
+#
+# Maintainer      : clintonph2121
+# This File Date  : Fri Oct 30 12:10 EST 2017
+#
+192.30.253.113 #Github
+192.30.253.112 #Github
+8.18.45.85 #tracking-dc6.cj.com
+95.213.182.230 #Forge of Glory
+162.125.0.0/16 #DropBox
+45.58.64.0/20 #DropBox
+108.160.160.0/20 #DropBox
+199.47.216.0/22 #DropBox
+208.67.220.220 #OpenDNS
+208.67.222.222 #OpenDNS

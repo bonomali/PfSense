@@ -1,3 +1,10 @@
+#
+# PfBlocker Microsoft Anti-Beacon
+# This is a block list for PfBlocker, this will block microsoft tracking
+#
+# Maintainer      : clintonph2121
+# This File Date  : Sat Nov 30 7:40 am EST 2017
+#
 a.ads1.msn.com
 a.ads2.msads.net
 a.ads2.msn.com
@@ -187,3 +194,4 @@ ui.skype.com
 v10.vortex-win.data.microsoft.com
 win10.ipv6.microsoft.com
 telecommand.telemetry.microsoft.com.nsat-c.net
+ca.telemetry.microsoft.com
